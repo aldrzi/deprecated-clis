@@ -1,12 +1,12 @@
 {
-  "name": "WARCRY #9991",
-  "symbol": "",
-  "image": "9991.png",
+  "name": "WARCRY #1",
+  "symbol": "WARCRY",
+  "image": "0.png",
   "properties": {
-    "files": [{ "uri": "9991.png", "type": "image/png" }],
+    "files": [{ "uri": "1.png", "type": "image/png" }],
     "category": "image",
     "creators": [
-      {"address": "2XUFZ4LCwYPQdRZDfett9tEVFZ8dBnAPvQ6C7k3FHRvq",
+      {"address": "Ak8YEXFHWXQcVhFKt7BzRRKH8k6w91uzB1Xk5sD1moLV",
       "share": 100}
     ]
   },
@@ -15,11 +15,11 @@
   "attributes": [
     {
       "trait_type": "Background",
-      "value": "BabyBlue"
+      "value": "Carrot"
     },
     {
       "trait_type": "Body",
-      "value": "Wheat"
+      "value": "Hazel"
     },
     {
       "trait_type": "Clothes",
@@ -27,15 +27,15 @@
     },
     {
       "trait_type": "Acc",
-      "value": "GoldEaring"
+      "value": "CrossNecklaces"
     },
     {
       "trait_type": "Hair",
-      "value": "RoyalCrown"
+      "value": "NoHair"
     },
     {
       "trait_type": "Face",
-      "value": "Nerd"
+      "value": "Tape"
     }
   ],
   "collection": {

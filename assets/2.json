@@ -1,12 +1,12 @@
 {
-  "name": "WARCRY #9992",
+  "name": "WARCRY #3",
   "symbol": "WARCRY",
-  "image": "9992.png",
+  "image": "2.png",
   "properties": {
-    "files": [{ "uri": "9992.png", "type": "image/png" }],
+    "files": [{ "uri": "2.png", "type": "image/png" }],
     "category": "image",
     "creators": [
-      {"address": "2XUFZ4LCwYPQdRZDfett9tEVFZ8dBnAPvQ6C7k3FHRvq",
+      {"address": "Ak8YEXFHWXQcVhFKt7BzRRKH8k6w91uzB1Xk5sD1moLV",
       "share": 100}
     ]
   },
