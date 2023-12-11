@@ -1,0 +1,46 @@
+{
+  "name": "WARCRY #9992",
+  "symbol": "WARCRY",
+  "image": "9992.png",
+  "properties": {
+    "files": [{ "uri": "9992.png", "type": "image/png" }],
+    "category": "image",
+    "creators": [
+      {"address": "2XUFZ4LCwYPQdRZDfett9tEVFZ8dBnAPvQ6C7k3FHRvq",
+      "share": 100}
+    ]
+  },
+  "description": "warrior comes to you, no roadmap no papper just art",
+  "seller_fee_basis_points": 500,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "AlmondPink"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Chestnut"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "PrisonClothes"
+    },
+    {
+      "trait_type": "Acc",
+      "value": "CrossNecklaces"
+    },
+    {
+      "trait_type": "Hair",
+      "value": "Beanie"
+    },
+    {
+      "trait_type": "Face",
+      "value": "Scary"
+    }
+  ],
+  "collection": {
+    "name": "WARCRY",
+    "family": "WARCRY"
+  }
+}
+

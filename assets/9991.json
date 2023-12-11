@@ -1,0 +1,45 @@
+{
+  "name": "WARCRY #9991",
+  "symbol": "",
+  "image": "9991.png",
+  "properties": {
+    "files": [{ "uri": "9991.png", "type": "image/png" }],
+    "category": "image",
+    "creators": [
+      {"address": "2XUFZ4LCwYPQdRZDfett9tEVFZ8dBnAPvQ6C7k3FHRvq",
+      "share": 100}
+    ]
+  },
+  "description": "",
+  "seller_fee_basis_points": 500,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "BabyBlue"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Wheat"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "ClassicBowtie"
+    },
+    {
+      "trait_type": "Acc",
+      "value": "GoldEaring"
+    },
+    {
+      "trait_type": "Hair",
+      "value": "RoyalCrown"
+    },
+    {
+      "trait_type": "Face",
+      "value": "Nerd"
+    }
+  ],
+  "collection": {
+    "name": "WARCRY",
+    "family": "WARCRY"
+  }
+}

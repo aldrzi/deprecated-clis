@@ -1,0 +1,45 @@
+{
+  "name": "WARCRY #9990",
+  "symbol": "",
+  "image": "9990.png",
+  "properties": {
+    "files": [{ "uri": "9990.png", "type": "image/png" }],
+    "category": "image",
+    "creators": [
+      {"address": "2XUFZ4LCwYPQdRZDfett9tEVFZ8dBnAPvQ6C7k3FHRvq",
+      "share": 100}
+    ]
+  },
+  "description": "",
+  "seller_fee_basis_points": 500,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Carrot"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Hazel"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "ClassicBowtie"
+    },
+    {
+      "trait_type": "Acc",
+      "value": "CrossNecklaces"
+    },
+    {
+      "trait_type": "Hair",
+      "value": "NoHair"
+    },
+    {
+      "trait_type": "Face",
+      "value": "Tape"
+    }
+  ],
+  "collection": {
+    "name": "WARCRY",
+    "family": "WARCRY"
+  }
+}
